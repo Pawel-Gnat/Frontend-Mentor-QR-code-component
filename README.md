@@ -24,6 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+I managed to complete this challenge in 2 hours.
+
 ### Built with
 
 - Semantic HTML5 markup
